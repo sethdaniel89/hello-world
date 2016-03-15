@@ -7,3 +7,4 @@ I'm now adding so stuff to this git file, and the change will come up as a commi
 commit = a change made to a file.
 
 I'm currently making edits to this GIT file. Let's check it out.
+Secondary alteration.
