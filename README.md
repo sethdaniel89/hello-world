@@ -8,3 +8,5 @@ commit = a change made to a file.
 
 I'm currently making edits to this GIT file. Let's check it out.
 Secondary alteration.
+
+Oh look I've added something to change this git file.
